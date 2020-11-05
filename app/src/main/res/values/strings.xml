@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="height">Height</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight</string>
+    <string name="button">Calculate</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="todo">TODO</string>
+    <string name="bmi">BMI =</string>
+    <string name="_25_5">25.5</string>
+    <string name="kg">kg</string>
+    <string name="cm">cm</string>
+    <string name="here_are_some_advices_to_help_you_increase_your_weight">Here are some advices To help you increase your weight</string>
+    <string name="textview">TextView</string>
+</resources>

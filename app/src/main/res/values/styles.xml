@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Male Radio Button -->
+    <style name="MaleRadioButtonStyle" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">#32a1ff</item>
+    </style>
+
+    <!-- Female Radio Button -->
+    <style name="FemaleRadioButtonStyle" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">#ff5bb4</item>
+    </style>
+
+    <!-- All Edit Text -->
+    <style name="CustomEditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="colorAccent">#3F51B5</item>
+    </style>
+
+    <!-- Progress bar -->
+    <style name="CircularDeterminateProgressBar">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/circle</item>
+    </style>
+
+</resources>
